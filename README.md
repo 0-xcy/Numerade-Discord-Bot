@@ -4,4 +4,4 @@
 
 Uses GET request to retrieve video ID which then can be used to find CDN video link
 
-![alt text]([http://url/to/img.png](https://i.imgur.com/fxYEdsX.png)https://i.imgur.com/fxYEdsX.png)
+![alt text](https://i.imgur.com/fxYEdsX.png)
